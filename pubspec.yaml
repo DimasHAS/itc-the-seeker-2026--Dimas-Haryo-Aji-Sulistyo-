@@ -1,0 +1,43 @@
+name: itcirectory
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/homepagepic.png
+    - assets/images/Screenshot 2026-05-03 151716.png
+    - assets/images/Screenshot 2026-05-03 151727.png
+    - assets/images/Screenshot 2026-05-03 153527.png
+    - assets/images/Screenshot 2026-05-03 153532.png
+    - assets/images/Screenshot 2026-05-03 153955.png
+    - assets/images/Screenshot 2026-05-03 154000.png
+    - assets/images/Screenshot 2026-05-03 154003.png
+    - assets/images/Screenshot 2026-05-03 174832.png
+    - assets/images/Screenshot 2026-05-03 174837.png
+    - assets/images/Screenshot 2026-05-03 175449.png
+    - assets/images/Screenshot 2026-05-03 175454.png
+    - assets/images/Screenshot 2026-05-03 175458.png
+    - assets/images/Screenshot 2026-05-03 180239.png
+    - assets/images/Screenshot 2026-05-03 180243.png
+    - assets/images/Screenshot 2026-05-03 180516.png
+    - assets/images/Screenshot 2026-05-03 180528.png
+    - assets/images/Screenshot 2026-05-03 180806.png
+    - assets/images/Screenshot 2026-05-03 180810.png
+    - assets/images/Screenshot 2026-05-03 181041.png
+    - assets/images/Screenshot 2026-05-03 181045.png
